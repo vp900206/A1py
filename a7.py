@@ -1,0 +1,2 @@
+x="vaibhav"
+print(x)
